@@ -32,9 +32,9 @@ p{
   margin-left: 16em;
 }
 .insideBox{
-  margin-top: 2em;
+  margin-top: 1em;
   border: 1px solid aqua;
-  height: 10em;
+  height: 12em;
   padding: 0 2em;
 }
 .insideImage{
@@ -46,4 +46,14 @@ p{
 .Description{
   font-size: 10px;
   margin-left: 15em;
+}
+.title{
+  margin-bottom: 2em;
+}
+.start{
+  margin-top: -2em;
+}
+.end{
+  margin-left: 17em;
+  margin-top: -2.35em;
 }
